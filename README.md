@@ -1,4 +1,3 @@
-```md
 # QuickStream — Smarter Video Speed Control
 
 QuickStream is a lightweight Chrome extension that provides fast, keyboard-based playback speed control for YouTube (or any sites you choose to enable). It is designed for users who prefer a clean interface and instant controls without UI clutter or complicated menus.
@@ -149,5 +148,3 @@ These are referenced automatically via `manifest.json`.
 * Resets speed when navigating to a new page or new video.
 
 ---
-
-```
